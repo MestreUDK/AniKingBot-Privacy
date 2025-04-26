@@ -8,4 +8,4 @@ O AniKing Bot respeita sua privacidade. Nenhuma informação pessoal é coletada
 
 Atualizado em: Abril de 2025
 
-Contato: @SeuUsername
+Contato: @UDKPrime_Bot
