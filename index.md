@@ -49,4 +49,4 @@ Para dúvidas, sugestões ou solicitações relacionadas à privacidade, entre e
 
 ---
 
-**Última atualização:** Abril de 2025
+**Última atualização:** 26 de Abril de 2025
