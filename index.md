@@ -28,9 +28,9 @@ Os dados coletados são utilizados para:
 
 ## 3. Segurança
 
-Todos os dados são armazenados em ambiente controlado usando **Supabase (PostgreSQL)** com acesso restrito ao desenvolvedor.
+Todos os dados são armazenados localmente em **arquivos JSON** no diretório interno do projeto, com acesso restrito ao desenvolvedor.
 
-Além disso, backups locais são feitos como redundância.
+Backups também são mantidos em ambiente local para garantir a integridade dos dados.
 
 ## 4. Direitos do Usuário
 
@@ -49,4 +49,4 @@ Para dúvidas, sugestões ou solicitações relacionadas à privacidade, entre e
 
 ---
 
-**Última atualização:** 26 de Abril de 2025
+**Última atualização:** 7 de Julho de 2025
